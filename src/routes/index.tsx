@@ -713,7 +713,7 @@ try {
           <div className="lg:col-span-2 space-y-4">
             {[
               { icon: Mail, label: "Email", value: "ayeesha7866@gmail.com" },
-              { icon: Phone, label: "Phone", value: "+919354201885" },
+              // { icon: Phone, label: "Phone", value: "+919354201885" },
               { icon: Linkedin, label: "LinkedIn", value: "https://www.linkedin.com/in/ayeesha-khatoon-563850232/" },
               { icon: MapPin, label: "Location", value: "Delhi, India" },
             ].map(c => (
